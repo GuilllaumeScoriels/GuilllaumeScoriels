@@ -1,35 +1,35 @@
 # Guillaume Scoriels
 
-Je développe des applications mobiles et des projets de calcul scientifique. Mes dépôts réunissent une application sociale sur Android et iOS, ainsi qu’une simulation numérique en C.
+I build mobile applications and scientific computing projects. My repositories include a social app for Android and iOS, alongside a numerical simulation written in C.
 
-**À la recherche d’un stage** pour contribuer à des projets concrets et approfondir mes compétences techniques.
+**Seeking an internship** where I can contribute to practical projects and further develop my technical skills.
 
-## Projets à découvrir
+## Selected projects
 
-### TORPILLE — Android et iOS
+### TORPILLE — Android & iOS
 
-Application sociale autour des communautés, de la messagerie multimédia et de la géolocalisation. Les deux versions utilisent un backend Firebase partagé.
+A social application built around communities, multimedia messaging, and location sharing. Both platforms use a shared Firebase backend.
 
-- **[Android](https://github.com/GuilllaumeScoriels/APK_TORPILLE)** : Kotlin, Jetpack Compose, Firebase.
-- **[iOS](https://github.com/GuilllaumeScoriels/TORPILLE-iOS)** : Swift, SwiftUI, MapKit, AVKit, Firebase ; architecture MVVM et repositories.
+- **[Android](https://github.com/GuilllaumeScoriels/APK_TORPILLE)**: Kotlin, Jetpack Compose, Firebase.
+- **[iOS](https://github.com/GuilllaumeScoriels/TORPILLE-iOS)**: Swift, SwiftUI, MapKit, AVKit, Firebase; MVVM architecture with repositories.
 
-### Simulation numérique de flux neutronique
+### Numerical simulation of neutron flux
 
-**[Explorer le projet](https://github.com/GuilllaumeScoriels/Numerical-Simulation-of-Neutron-Flux-in-a-Nuclear-Reactor)**
+**[Explore the project](https://github.com/GuilllaumeScoriels/Numerical-Simulation-of-Neutron-Flux-in-a-Nuclear-Reactor)**
 
-Modélisation du flux neutronique dans un réacteur homogène en deux dimensions : différences finies, matrices creuses au format CSR, problèmes aux valeurs propres et évolution temporelle.
+Modeling neutron flux in a two-dimensional homogeneous reactor using finite differences, sparse matrices in CSR format, eigenvalue solvers, and time-dependent simulation.
 
-**Technologies :** C, Makefile, PRIMME.
+**Technologies:** C, Makefile, PRIMME.
 
-### LecteurDeTxt — Android
+### LecteurDeTxt — Android text reader
 
-**[Explorer le projet](https://github.com/GuilllaumeScoriels/LecteurDeTxt)** · Application de lecture de texte en Kotlin.
+**[Explore the project](https://github.com/GuilllaumeScoriels/LecteurDeTxt)** · An Android text reader developed in Kotlin.
 
-## Technologies utilisées dans ces projets
+## Technologies used in these projects
 
-| Domaine | Technologies |
+| Area | Technologies |
 | --- | --- |
 | Android | Kotlin, Jetpack Compose |
 | iOS | Swift, SwiftUI, MapKit, AVKit |
-| Backend mobile | Firebase Authentication, Firestore, Storage, Cloud Functions |
-| Calcul scientifique | C, différences finies, matrices creuses, PRIMME |
+| Mobile backend | Firebase Authentication, Firestore, Storage, Cloud Functions |
+| Scientific computing | C, finite differences, sparse matrices, PRIMME |
